@@ -10,6 +10,8 @@ public class Test1 {
 			System.out.println("eat something ....");
 		else
 			System.out.println("Do work ....");
+		
+		System.out.println("Test Message in 1");
 
 	}
 
