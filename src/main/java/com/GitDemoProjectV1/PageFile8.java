@@ -5,6 +5,7 @@ public class PageFile8 {
 	public static void main(String[] args) {
 		System.out.println("This is my PageFile8 - created in FirstBranchInRemote");
 		System.out.println("This is my PageFile8 - New comment added in MasterRemote");
+		System.out.println("This is my PageFile8 - New Comment added in Local Master Branch");
 	
 	}
 
